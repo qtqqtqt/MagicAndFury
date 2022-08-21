@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{8A67EF1D-BD8B-E0F1-4BFE-FD304C55371A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SkillCooldowns.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="122" Column="33" />
+      <File FileName="Assets/Scripts/EnemyScript.cs" />
+      <File FileName="Assets/Scripts/EnemyFollow.cs" Line="67" Column="8" />
+      <File FileName="Assets/Scripts/SkillCooldowns.cs" Line="28" Column="9" />
+      <File FileName="Assets/Scripts/ShootHandler.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GameManagement.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MagicAndFuryTest" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="SkillCooldowns.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="3c2d8b72-2998-42e1-9252-d31c532d4df8" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
